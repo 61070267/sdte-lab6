@@ -1,4 +1,4 @@
-name: Check code when push .
+name: Check code when push
 
 on:
   push:
